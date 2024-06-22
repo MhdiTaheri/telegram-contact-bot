@@ -31,13 +31,13 @@ This is a fun and interactive Telegram bot that forwards messages to an admin an
 1. 📥 Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/DevSeyed/telegram-contact-bot.git
    ```
 
 2. 📁 Navigate to the project directory:
 
    ```
-   cd your-repo
+   cd telegram-contact-bot
    ```
 
 3. 📦 Install the required Python packages:
