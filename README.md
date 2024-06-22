@@ -1,8 +1,8 @@
 
-# 🤖 Telegram Bot with Language Translation 🌐
+#  Telegram Bot with Language Translation 
 
 [![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This is a fun and interactive Telegram bot that forwards messages to an admin and translates them into English. It also allows users to set their preferred language and reply to users in their preferred language.
 
@@ -74,4 +74,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📜 License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](LICENSE)
